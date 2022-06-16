@@ -1,7 +1,6 @@
 import 'dart:convert';
 //import 'package:equatable/equatable.dart';
 import 'package:tafqit/src/model/unit_code.dart';
-// TODO   القيام بيعملية لجمع للوحدات بشكل الي
 
 class TafqitUnit {
   final TafqitUnitCode unitCode;
